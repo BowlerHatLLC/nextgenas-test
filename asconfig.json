@@ -1,0 +1,18 @@
+{
+	"type": "lib",
+	"config": "js",
+	"compilerOptions": {
+		"include-sources": [
+			"source"
+		],
+		"keep-as3-metadata": [
+			"Test",
+			"Before",
+			"After"
+		],
+		"output": "bin",
+		"source-path": [
+			"source"
+		]
+	}
+}

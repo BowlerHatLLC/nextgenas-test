@@ -46,7 +46,7 @@ package
 			this._runner.run(new <Class>
 			[
 				SomeComponentTests
-				//add more tests here
+				//add more classes with tests here
 			]);
 		}
 

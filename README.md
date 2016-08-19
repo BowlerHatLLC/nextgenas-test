@@ -4,7 +4,7 @@ An automated testing library for transpiled ActionScript.
 
 ## Defining Tests
 
-Add `[Test]` metadata to a function to mark it as a test. The `TestRunner` will automatically detect this function when it runs.
+Add [`[Test]` metadata](https://github.com/BowlerHatLLC/nextgenas-test/wiki/Metadata) to a function to mark it as a test. The `TestRunner` will automatically detect this function when it runs.
 
 ``` actionscript
 package

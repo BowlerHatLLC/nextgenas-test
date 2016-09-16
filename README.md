@@ -66,3 +66,5 @@ Want to see more ActionScript libraries like *nextgenas-test*? Please [become a 
 Special thanks to the following sponsors for their generous support:
 
 * [YETi CGI](http://yeticgi.com/)
+
+* [Moonshine IDE](http://moonshine-ide.com/)

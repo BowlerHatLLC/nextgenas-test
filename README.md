@@ -1,6 +1,6 @@
 # nextgenas-test
 
-An automated testing library for transpiled ActionScript.
+An automated testing library for Apache FlexJS and transpiled ActionScript.
 
 ## Defining Tests
 
@@ -58,10 +58,6 @@ package
 A `TraceListener` may be created to print results to the console using `trace()`. Alternatively, you can listen for events dispatched by the `TestRunner` and respond with custom logic.
 
 ---
-
-Want to see more ActionScript libraries like *nextgenas-test*? Please [become a patron](http://patreon.com/josht) and support the next generation of ActionScript development on the web -- without a plugin!
-
-[NextGen ActionScript by Josh Tynjala on Patreon](http://patreon.com/josht).
 
 Special thanks to the following sponsors for their generous support:
 

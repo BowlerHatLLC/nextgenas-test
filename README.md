@@ -1,5 +1,7 @@
 # nextgenas-test
 
+*Note: This project is no longer under active development. Use at your own risk.*
+
 An automated testing library for Apache FlexJS and transpiled ActionScript.
 
 ## Defining Tests
